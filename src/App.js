@@ -1,13 +1,9 @@
 import './App.css';
 import React from 'react';
 import MyButton from './components/Button';
-import Card from './components/Card';
 function App() {
   return ( 
     <div className="App">
-        <Card text="lorem lorem lorem lorem"></Card>
-        <Card text="lorem1 lorem1 lorem1 lorem1"></Card>
-        <Card text="lorem2 lorem2 lorem2 lorem2"></Card>
       <section>
       <header>
                 <div className='container'>
